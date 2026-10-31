@@ -64,5 +64,121 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-k-agentpay-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://k-agentpay.com/
+K-AgentPay provides a suite of real‑time data APIs focused on Korean travel and K‑pop live events. Its offerings include Incheon Airport security wait times, Seoul subway arrival predictions, live crowd and weather data for Seoul, and K‑pop concert schedules and ticket information. The APIs deliver JSON responses in English, Japanese, and Korean, and are accessible via RapidAPI or the proprietary x402 protocol. Designed for app developers and AI agents, K‑AgentPay aims to enrich travel planning and entertainment experiences with up‑to‑date Korean locale data.
+
+**Areas:** Company · Travel · K-Pop · Data · API · Korea
+
+## k-agentpay-com on APIs.io
+
+Everything profiled for k-agentpay-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/k-agentpay-com/](https://apis.io/providers/k-agentpay-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [k-agentpay-com Airport API](https://apis.io/apis/k-agentpay-com/k-agentpay-com-airport-api/) — The Airport API from k-agentpay-com — 1 operation(s) for airport.
+- [k-agentpay-com Kpop API](https://apis.io/apis/k-agentpay-com/k-agentpay-com-kpop-api/) — The Kpop API from k-agentpay-com — 2 operation(s) for kpop.
+- [k-agentpay-com Seoul API](https://apis.io/apis/k-agentpay-com/k-agentpay-com-seoul-api/) — The Seoul API from k-agentpay-com — 4 operation(s) for seoul.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [K Agentpay Com Agentic Access](https://apis.io/agentic-access/k-agentpay-com/k-agentpay-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [k-agentpay-com API Rules](https://apis.io/rules/k-agentpay-com/k-agentpay-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [K Agentpay Com Authentication](https://apis.io/security/k-agentpay-com/k-agentpay-com-authentication/)
+- [K Agentpay Com Domain Security](https://apis.io/security/k-agentpay-com/k-agentpay-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [K Agentpay Com Scopes](https://apis.io/scopes/k-agentpay-com/k-agentpay-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [K Agentpay Com Plans Pricing](https://apis.io/plans/k-agentpay-com/k-agentpay-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [K Agentpay Com Rate Limits](https://apis.io/rate-limits/k-agentpay-com/k-agentpay-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://k-agentpay.com/)
+- [Documentation](https://api.k-agentpay.com/openapi.json)
+- [API reference](https://api.k-agentpay.com/openapi.json)
+- [Pricing](https://rapidapi.com/JBML/api/korea-travel-k-pop-live-data)
+
+## API Evangelist rating
+
+**Kin Score 31.0** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 61.7 |
+| Contract quality | 41.8 |
+| Contract governance | 57.3 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 23.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 35.4** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 20.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/k-agentpay-com/](https://apis.io/providers/k-agentpay-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for k-agentpay-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/k-agentpay-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
